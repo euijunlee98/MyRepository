@@ -5,5 +5,6 @@ public class MyClassA {
 		System.out.println("Hello Git!");
 		System.out.println("This is the 2nd version.");
 		System.out.println("My changed in master branch");
+		System.out.println("A.java 수정(master branch)");
 	}
 }
