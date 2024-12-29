@@ -9,5 +9,7 @@ public class MyClassA {
 		YourClassA yourA = new YourClassA();
 		yourA.sayHello("Everyone");
 		System.out.println("A.java 수정(devC branch)");
+		YourClassA yourB = new YourClassA();
+		yourA.sayHello("Everyone");
 	}
 }
